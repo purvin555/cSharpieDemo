@@ -1,0 +1,10 @@
+﻿
+/InsightInvoice/obj
+/InsightInvoice/bin
+/InsightInvoice.Output/obj
+/InsightInvoice.Output/bin
+/InsightInvoice.Tests/obj
+/InsightInvoice.Tests/bin
+/TestResults
+/packages
+/.vs
