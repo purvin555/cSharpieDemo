@@ -1,3 +1,13 @@
+```
+H E L L O    W O R L D    ! !
+
+- This repository includes C# code. 
+- The repository consits of a library, unit tests and a console program that addresses the excercise listed below.
+- Please read Notes.txt once you download the repository.  
+
+Regards & Happy Coding.
+```
+
 ## Excercise : SALES TAXES
 
 Basic sales tax is applicable at a rate of 10% on all goods, except books,
