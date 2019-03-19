@@ -3,9 +3,9 @@ H E L L O    W O R L D    ! !
 
 - This repository includes C# code. 
 - The repository consits of a library, unit tests and a console program that addresses the excercise listed below.
-- Please read **Notes.txt** once you download the repository.  
+- Please read Notes.txt once you download the repository.  
 - Download all packages referenced packages.config files before building the application. 
-- On VS Package Manager Console run **Update-Package** to fetch packages for all projects of the solution.
+- On VS Package Manager Console run Update-Package to fetch packages for all projects of the solution.
 
 Regards & Happy Coding.
 ```
