@@ -8,3 +8,6 @@
 /TestResults
 /packages
 /.vs
+/InsightInvoice.Tests/InsightInvoice.Tests.csproj.user
+/InsightInvoice.Output/InsightInvoice.Output.csproj.user
+/InsightInvoice/InsightInvoice.csproj.user
