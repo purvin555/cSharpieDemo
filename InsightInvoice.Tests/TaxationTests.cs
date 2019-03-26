@@ -23,7 +23,6 @@ namespace InsightInvoice.Tests
         [TestMethod]
         public void Tax_Multiple()
         {
-            var packaging = new Packaging { Type = "1 Piece"};
             var product = new Product { Name = "Chair", Price = 100 };
             var scan = new InvoiceItem { Product = product, Quantity = 1, Packaging = null };
             scan.Product.Category = new TaxCategory { Name = "Multiple Taxes" };
@@ -38,7 +37,6 @@ namespace InsightInvoice.Tests
         [TestMethod]
         public void Tax_Rounding()
         {
-            var packaging = new Packaging { Type = "1 Piece" };
             var product = new Product { Name = "Chair", Price = 12.49m };
             var scan = new InvoiceItem { Product = product, Quantity = 1, Packaging = null };
             scan.Product.Category = new TaxCategory { Name = "Single Tax" };
